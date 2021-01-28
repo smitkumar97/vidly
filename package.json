@@ -2,6 +2,7 @@
   "name": "vidly",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/smitkumar97/vidly",
   "dependencies": {
     "axios": "^0.18.0",
     "bcryptjs": "^2.4.3",
